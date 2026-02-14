@@ -1,0 +1,593 @@
+{
+  "era": "고대",
+  "eraEn": "Ancient",
+  "startYear": -3000,
+  "endYear": -500,
+  "figures": [
+    {
+      "id": "enoch",
+      "name": "Enoch",
+      "nameKo": "에녹",
+      "birthYear": -3382,
+      "deathYear": -3017,
+      "category": "religious",
+      "description": "하나님과 동행한 인물, 죽음을 경험하지 않고 하늘로 올라감",
+      "descriptionEn": "Walked with God and was taken up to heaven without experiencing death",
+      "significance": "에녹서의 저자로 전해지며, 신앙의 모범적 인물"
+    },
+    {
+      "id": "noah",
+      "name": "Noah",
+      "nameKo": "노아",
+      "birthYear": -2970,
+      "deathYear": -2020,
+      "category": "religious",
+      "description": "대홍수에서 방주를 지어 인류와 동물을 구한 인물",
+      "descriptionEn": "Built the ark and saved humanity and animals from the Great Flood",
+      "significance": "하나님의 심판과 구원의 상징, 새 언약의 시작"
+    },
+    {
+      "id": "hung-kings",
+      "name": "Hung Kings",
+      "nameKo": "Hung Kings",
+      "birthYear": -2879,
+      "deathYear": -258,
+      "category": "political",
+      "description": "Vietnam, Legendary Rulers, Dynasty Founders, Mythological Kings",
+      "descriptionEn": "Vietnam, Legendary Rulers, Dynasty Founders, Mythological Kings",
+      "significance": ""
+    },
+    {
+      "id": "imhotep",
+      "name": "Imhotep",
+      "nameKo": "임호텝",
+      "birthYear": -2650,
+      "deathYear": -2600,
+      "category": "scientific",
+      "description": "고대 이집트의 건축가, 의사, 재상",
+      "descriptionEn": "Ancient Egyptian architect, physician, and chancellor",
+      "significance": "최초의 피라미드(계단식) 설계, 의학의 선구자"
+    },
+    {
+      "id": "sargon_of_akkad",
+      "name": "Sargon of Akkad",
+      "nameKo": "아카드의 사르곤",
+      "birthYear": -2334,
+      "deathYear": -2279,
+      "category": "political",
+      "description": "아카드 제국의 창건자, 최초의 제국 건설자",
+      "descriptionEn": "Founder of the Akkadian Empire, first empire builder in history",
+      "significance": "메소포타미아를 통일한 최초의 제국 건설"
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "nameKo": "아브라함",
+      "birthYear": -2150,
+      "deathYear": -1975,
+      "category": "religious",
+      "description": "이스라엘 민족의 조상, 믿음의 아버지",
+      "descriptionEn": "Mesopotamia, Patriarch, Prophet, Religious Leader, Shepherd",
+      "significance": "유대교, 기독교, 이슬람의 공통 조상으로 하나님의 언약을 받음"
+    },
+    {
+      "id": "hammurabi",
+      "name": "Hammurabi",
+      "nameKo": "함무라비",
+      "birthYear": -1810,
+      "deathYear": -1750,
+      "category": "political",
+      "description": "바빌론 제국의 왕, 최초의 성문법 제정자",
+      "descriptionEn": "King of Babylon, creator of one of the first written legal codes",
+      "significance": "함무라비 법전을 통해 고대 법치주의의 기초를 세움"
+    },
+    {
+      "id": "zoroaster",
+      "name": "Zoroaster",
+      "nameKo": "조로아스터",
+      "birthYear": -1500,
+      "deathYear": -1000,
+      "category": "religious",
+      "description": "조로아스터교의 창시자",
+      "descriptionEn": "Founder of Zoroastrianism",
+      "significance": "선악 이원론, 최후의 심판 개념의 원류"
+    },
+    {
+      "id": "thutmose-iii",
+      "name": "Thutmose III",
+      "nameKo": "Thutmose III",
+      "birthYear": -1481,
+      "deathYear": -1425,
+      "category": "political",
+      "description": "Egypt, Pharaoh, Military Commander, Empire Builder",
+      "descriptionEn": "Egypt, Pharaoh, Military Commander, Empire Builder",
+      "significance": ""
+    },
+    {
+      "id": "moses",
+      "name": "Moses",
+      "nameKo": "모세",
+      "birthYear": -1391,
+      "deathYear": -1271,
+      "category": "religious",
+      "description": "이스라엘의 선지자, 출애굽의 지도자",
+      "descriptionEn": "Hebrew/Israelite, Prophet, Lawgiver, Leader of Exodus",
+      "significance": "십계명을 받고 이스라엘을 이집트에서 인도"
+    },
+    {
+      "id": "akhenaten",
+      "name": "Akhenaten",
+      "nameKo": "Akhenaten",
+      "birthYear": -1380,
+      "deathYear": -1336,
+      "category": "political",
+      "description": "Egypt, Pharaoh, Religious Reformer, Patron of the Arts",
+      "descriptionEn": "Egypt, Pharaoh, Religious Reformer, Patron of the Arts",
+      "significance": ""
+    },
+    {
+      "id": "tutankhamun",
+      "name": "Tutankhamun",
+      "nameKo": "투탕카멘",
+      "birthYear": -1341,
+      "deathYear": -1323,
+      "category": "political",
+      "description": "이집트의 소년 파라오",
+      "descriptionEn": "Boy pharaoh of Egypt",
+      "significance": "20세기 발견된 온전한 무덤으로 고대 이집트 문화 연구의 핵심"
+    },
+    {
+      "id": "ramesses-ii",
+      "name": "Ramesses II",
+      "nameKo": "Ramesses II",
+      "birthYear": -1303,
+      "deathYear": -1213,
+      "category": "political",
+      "description": "Egypt, Pharaoh, Military Commander, Builder",
+      "descriptionEn": "Egypt, Pharaoh, Military Commander, Builder",
+      "significance": ""
+    },
+    {
+      "id": "ramesses_ii",
+      "name": "Ramesses II",
+      "nameKo": "람세스 2세",
+      "birthYear": -1303,
+      "deathYear": -1213,
+      "category": "political",
+      "description": "이집트의 파라오, 고대 이집트 최전성기의 통치자",
+      "descriptionEn": "Pharaoh of Egypt, ruler during the height of ancient Egypt",
+      "significance": "출애굽의 파라오로 추정, 아부심벨 신전 건설"
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "nameKo": "다윗",
+      "birthYear": -1040,
+      "deathYear": -970,
+      "category": "religious",
+      "description": "이스라엘의 왕, 시편의 저자",
+      "descriptionEn": "King of Israel, author of Psalms",
+      "significance": "이스라엘 통일왕국의 전성기를 이끌고 메시아의 조상"
+    },
+    {
+      "id": "solomon",
+      "name": "Solomon",
+      "nameKo": "솔로몬",
+      "birthYear": -990,
+      "deathYear": -931,
+      "category": "religious",
+      "description": "이스라엘의 왕, 지혜의 왕으로 유명",
+      "descriptionEn": "King of Israel, renowned for his wisdom",
+      "significance": "예루살렘 성전 건축, 잠언과 전도서의 저자"
+    },
+    {
+      "id": "elijah",
+      "name": "Elijah",
+      "nameKo": "엘리야",
+      "birthYear": -900,
+      "deathYear": -849,
+      "category": "religious",
+      "description": "이스라엘의 대선지자, 바알 선지자들과 대결",
+      "descriptionEn": "Great prophet of Israel, confronted the prophets of Baal",
+      "significance": "불수레를 타고 하늘로 올라간 선지자"
+    },
+    {
+      "id": "isaiah",
+      "name": "Isaiah",
+      "nameKo": "이사야",
+      "birthYear": -765,
+      "deathYear": -695,
+      "category": "religious",
+      "description": "이스라엘의 대선지자, 메시아 예언",
+      "descriptionEn": "Great prophet of Israel, prophesied the Messiah",
+      "significance": "메시아의 고난과 영광에 대한 상세한 예언"
+    },
+    {
+      "id": "homer",
+      "name": "Homer",
+      "nameKo": "호메로스",
+      "birthYear": -750,
+      "deathYear": -700,
+      "category": "artistic",
+      "description": "고대 그리스의 서사시인",
+      "descriptionEn": "Greece, Epic Poet, Bard",
+      "significance": "일리아스와 오디세이아의 저자, 서양 문학의 기원"
+    },
+    {
+      "id": "solon",
+      "name": "Solon",
+      "nameKo": "Solon",
+      "birthYear": -638,
+      "deathYear": -558,
+      "category": "artistic",
+      "description": "Greece, Statesman, Lawmaker, Poet, Political Philosopher",
+      "descriptionEn": "Greece, Statesman, Lawmaker, Poet, Political Philosopher",
+      "significance": ""
+    },
+    {
+      "id": "nebuchadnezzar_ii",
+      "name": "Nebuchadnezzar II",
+      "nameKo": "느부갓네살 2세",
+      "birthYear": -634,
+      "deathYear": -562,
+      "category": "political",
+      "description": "신바빌로니아 제국의 왕, 예루살렘을 정복",
+      "descriptionEn": "King of Neo-Babylonian Empire, conquered Jerusalem",
+      "significance": "바빌론 유수를 일으키고 공중정원을 건설"
+    },
+    {
+      "id": "thales-of-miletus",
+      "name": "Thales of Miletus",
+      "nameKo": "Thales of Miletus",
+      "birthYear": -624,
+      "deathYear": -546,
+      "category": "philosophical",
+      "description": "Greece, Philosopher, Mathematician, Astronomer, Statesman",
+      "descriptionEn": "Greece, Philosopher, Mathematician, Astronomer, Statesman",
+      "significance": ""
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "nameKo": "다니엘",
+      "birthYear": -620,
+      "deathYear": -538,
+      "category": "religious",
+      "description": "바빌론 포로기의 선지자, 예언자",
+      "descriptionEn": "Prophet during the Babylonian captivity",
+      "significance": "종말론적 예언과 꿈 해석으로 유명, 사자굴에서의 기적"
+    },
+    {
+      "id": "cyrus-the-great",
+      "name": "Cyrus the Great",
+      "nameKo": "Cyrus the Great",
+      "birthYear": -600,
+      "deathYear": -530,
+      "category": "political",
+      "description": "Persia, King, Military Commander, Empire Builder",
+      "descriptionEn": "Persia, King, Military Commander, Empire Builder",
+      "significance": ""
+    },
+    {
+      "id": "cyrus_the_great",
+      "name": "Cyrus the Great",
+      "nameKo": "키루스 대왕",
+      "birthYear": -600,
+      "deathYear": -530,
+      "category": "political",
+      "description": "페르시아 제국의 창건자, 관용 정책의 선구자",
+      "descriptionEn": "Founder of the Persian Empire, pioneer of tolerance",
+      "significance": "유대인의 바빌론 포로 해방, 최초의 인권 선언"
+    },
+    {
+      "id": "gautama-buddha",
+      "name": "Gautama Buddha",
+      "nameKo": "Gautama Buddha",
+      "birthYear": -563,
+      "deathYear": -483,
+      "category": "philosophical",
+      "description": "Shakya Kingdom (modern Nepal/India), Spiritual Teacher, Founder of Buddhism, Philosopher",
+      "descriptionEn": "Shakya Kingdom (modern Nepal/India), Spiritual Teacher, Founder of Buddhism, Philosopher",
+      "significance": ""
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "nameKo": "공자",
+      "birthYear": -551,
+      "deathYear": -479,
+      "category": "philosophical",
+      "description": "유교의 창시자, 중국의 대사상가",
+      "descriptionEn": "Chinese (State of Lu), Philosopher, Teacher, Political Theorist, Sage",
+      "significance": "인(仁)과 예(禮)를 중심으로 한 동아시아 사상의 기초를 세움"
+    },
+    {
+      "id": "miltiades",
+      "name": "Miltiades",
+      "nameKo": "Miltiades",
+      "birthYear": -550,
+      "deathYear": -489,
+      "category": "political",
+      "description": "Greece, General, Statesman, Tyrant",
+      "descriptionEn": "Greece, General, Statesman, Tyrant",
+      "significance": ""
+    },
+    {
+      "id": "sun-tzu",
+      "name": "Sun Tzu",
+      "nameKo": "Sun Tzu",
+      "birthYear": -544,
+      "deathYear": -496,
+      "category": "political",
+      "description": "Chinese (State of Wu), Military Strategist, General, Philosopher",
+      "descriptionEn": "Chinese (State of Wu), Military Strategist, General, Philosopher",
+      "significance": ""
+    },
+    {
+      "id": "dangun",
+      "name": "Dangun",
+      "nameKo": "Dangun",
+      "birthYear": 2333,
+      "deathYear": null,
+      "category": "political",
+      "description": "Gojoseon (Korea), Legendary Founder, First King, Mythological Figure",
+      "descriptionEn": "Gojoseon (Korea), Legendary Founder, First King, Mythological Figure",
+      "significance": ""
+    },
+    {
+      "id": "sargon-of-akkad",
+      "name": "Sargon of Akkad",
+      "nameKo": "Sargon of Akkad",
+      "birthYear": 2334,
+      "deathYear": 2279,
+      "category": "political",
+      "description": "Akkadian, Emperor, Military Commander, Empire Builder",
+      "descriptionEn": "Akkadian, Emperor, Military Commander, Empire Builder",
+      "significance": ""
+    },
+    {
+      "id": "khufu",
+      "name": "Khufu",
+      "nameKo": "Khufu",
+      "birthYear": 2609,
+      "deathYear": 2566,
+      "category": "political",
+      "description": "Egypt, Pharaoh, Builder, Ruler",
+      "descriptionEn": "Egypt, Pharaoh, Builder, Ruler",
+      "significance": ""
+    },
+    {
+      "id": "lac-long-quan",
+      "name": "Lac Long Quan",
+      "nameKo": "Lac Long Quan",
+      "birthYear": 2800,
+      "deathYear": null,
+      "category": "political",
+      "description": "Vietnam, Legendary King, Cultural Hero, Mythological Figure",
+      "descriptionEn": "Vietnam, Legendary King, Cultural Hero, Mythological Figure",
+      "significance": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "tower_of_babel",
+      "name": "Tower of Babel",
+      "nameKo": "바벨탑",
+      "year": -2200,
+      "category": "religious",
+      "description": "인류가 하늘에 닿는 탑을 쌓으려다 언어가 혼잡됨",
+      "descriptionEn": "Humanity attempted to build a tower to heaven, resulting in the confusion of languages"
+    },
+    {
+      "id": "great_flood",
+      "name": "Great Flood (Noah's Flood)",
+      "nameKo": "노아의 홍수",
+      "year": -2348,
+      "category": "religious",
+      "description": "하나님이 세상의 죄악을 심판하여 대홍수를 일으킴",
+      "descriptionEn": "God sent a great flood to judge the wickedness of the world"
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "nameKo": "출애굽",
+      "year": -1446,
+      "category": "religious",
+      "description": "이스라엘 민족의 이집트 탈출",
+      "descriptionEn": "Israelite departure from Egypt"
+    },
+    {
+      "id": "construction_solomons_temple",
+      "name": "Construction of Solomon's Temple",
+      "nameKo": "솔로몬 성전 건축",
+      "year": -957,
+      "category": "religious",
+      "description": "예루살렘에 최초의 성전이 건축됨",
+      "descriptionEn": "The First Temple was built in Jerusalem"
+    },
+    {
+      "id": "fall_of_israel",
+      "name": "Fall of Northern Israel",
+      "nameKo": "북이스라엘 멸망",
+      "year": -722,
+      "category": "political",
+      "description": "앗시리아에 의해 북이스라엘 왕국이 멸망",
+      "descriptionEn": "The Northern Kingdom of Israel fell to Assyria"
+    },
+    {
+      "id": "babylonian_captivity",
+      "name": "Babylonian Captivity",
+      "nameKo": "바빌론 유수",
+      "year": -586,
+      "category": "religious",
+      "description": "예루살렘 성전 파괴와 유대인의 바빌론 포로",
+      "descriptionEn": "Destruction of the First Temple and exile of Jews to Babylon"
+    },
+    {
+      "id": "founding_of_rome",
+      "name": "Founding of Rome",
+      "nameKo": "로마 건국",
+      "year": -753,
+      "category": "political",
+      "description": "로물루스에 의해 로마가 건국됨",
+      "descriptionEn": "Rome was founded by Romulus"
+    },
+    {
+      "id": "first_olympics",
+      "name": "First Olympic Games",
+      "nameKo": "최초의 올림픽",
+      "year": -776,
+      "category": "cultural",
+      "description": "고대 그리스 올림피아에서 최초의 올림픽 경기 개최",
+      "descriptionEn": "First Olympic Games held in Olympia, ancient Greece"
+    },
+    {
+      "id": "invention_of_writing",
+      "name": "Invention of Writing",
+      "nameKo": "문자의 발명",
+      "year": -3200,
+      "category": "cultural",
+      "description": "수메르에서 쐐기문자가 발명됨",
+      "descriptionEn": "Cuneiform writing invented in Sumer"
+    },
+    {
+      "id": "construction_great_pyramid",
+      "name": "Construction of the Great Pyramid",
+      "nameKo": "대피라미드 건설",
+      "year": -2560,
+      "category": "cultural",
+      "description": "기자의 대피라미드가 건설됨",
+      "descriptionEn": "The Great Pyramid of Giza was constructed"
+    },
+    {
+      "id": "abrahamic_covenant",
+      "name": "Abrahamic Covenant",
+      "nameKo": "아브라함 언약",
+      "year": -2091,
+      "category": "religious",
+      "description": "하나님이 아브라함과 언약을 맺음",
+      "descriptionEn": "God established a covenant with Abraham"
+    },
+    {
+      "id": "hammurabi_code",
+      "name": "Code of Hammurabi",
+      "nameKo": "함무라비 법전",
+      "year": -1754,
+      "category": "political",
+      "description": "최초의 성문화된 법률 체계 제정",
+      "descriptionEn": "One of the earliest written legal codes was established"
+    }
+  ],
+  "works": [
+    {
+      "id": "book_of_enoch",
+      "name": "Book of Enoch",
+      "nameKo": "에녹서",
+      "year": -3000,
+      "author": "Enoch",
+      "authorKo": "에녹",
+      "category": "religious",
+      "description": "에녹의 환상과 천사, 심판에 대한 기록",
+      "descriptionEn": "Record of Enoch's visions about angels and judgment"
+    },
+    {
+      "id": "torah",
+      "name": "Torah (Pentateuch)",
+      "nameKo": "토라 (모세오경)",
+      "year": -1400,
+      "author": "Moses",
+      "authorKo": "모세",
+      "category": "religious",
+      "description": "구약성경의 첫 다섯 권 (창세기~신명기)",
+      "descriptionEn": "First five books of the Old Testament (Genesis to Deuteronomy)"
+    },
+    {
+      "id": "psalms",
+      "name": "Psalms",
+      "nameKo": "시편",
+      "year": -1000,
+      "author": "David (and others)",
+      "authorKo": "다윗 (외 다수)",
+      "category": "religious",
+      "description": "찬양과 기도, 탄식의 시 모음집",
+      "descriptionEn": "Collection of hymns, prayers, and laments"
+    },
+    {
+      "id": "proverbs",
+      "name": "Proverbs",
+      "nameKo": "잠언",
+      "year": -950,
+      "author": "Solomon",
+      "authorKo": "솔로몬",
+      "category": "religious",
+      "description": "지혜와 교훈에 관한 격언 모음",
+      "descriptionEn": "Collection of wise sayings and moral teachings"
+    },
+    {
+      "id": "iliad",
+      "name": "Iliad",
+      "nameKo": "일리아스",
+      "year": -750,
+      "author": "Homer",
+      "authorKo": "호메로스",
+      "category": "artistic",
+      "description": "트로이 전쟁을 다룬 서사시",
+      "descriptionEn": "Epic poem about the Trojan War"
+    },
+    {
+      "id": "odyssey",
+      "name": "Odyssey",
+      "nameKo": "오디세이아",
+      "year": -725,
+      "author": "Homer",
+      "authorKo": "호메로스",
+      "category": "artistic",
+      "description": "오디세우스의 귀향 모험을 다룬 서사시",
+      "descriptionEn": "Epic poem about Odysseus's journey home"
+    },
+    {
+      "id": "book_of_isaiah",
+      "name": "Book of Isaiah",
+      "nameKo": "이사야서",
+      "year": -700,
+      "author": "Isaiah",
+      "authorKo": "이사야",
+      "category": "religious",
+      "description": "메시아 예언과 이스라엘의 회복을 담은 예언서",
+      "descriptionEn": "Prophetic book containing Messianic prophecies and Israel's restoration"
+    },
+    {
+      "id": "book_of_daniel",
+      "name": "Book of Daniel",
+      "nameKo": "다니엘서",
+      "year": -535,
+      "author": "Daniel",
+      "authorKo": "다니엘",
+      "category": "religious",
+      "description": "종말론적 환상과 바빌론 포로기의 기록",
+      "descriptionEn": "Apocalyptic visions and records from the Babylonian captivity"
+    },
+    {
+      "id": "epic_of_gilgamesh",
+      "name": "Epic of Gilgamesh",
+      "nameKo": "길가메시 서사시",
+      "year": -2100,
+      "author": "Unknown (Sumerian)",
+      "authorKo": "미상 (수메르)",
+      "category": "artistic",
+      "description": "인류 최초의 문학 작품, 우루크 왕 길가메시의 모험",
+      "descriptionEn": "One of the earliest works of literature, adventures of King Gilgamesh of Uruk"
+    },
+    {
+      "id": "book_of_the_dead",
+      "name": "Book of the Dead",
+      "nameKo": "사자의 서",
+      "year": -1550,
+      "author": "Unknown (Egyptian priests)",
+      "authorKo": "미상 (이집트 사제들)",
+      "category": "religious",
+      "description": "이집트 사후세계 안내서",
+      "descriptionEn": "Ancient Egyptian funerary text guiding the dead through the afterlife"
+    }
+  ]
+}
